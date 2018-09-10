@@ -1,1 +1,0 @@
-<h3>This will print the server running port, environment variables and current server URL</h3>
